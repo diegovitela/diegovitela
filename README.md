@@ -32,12 +32,12 @@
   
  
 
-- 🔭 I’m currently working on Python , c#, html
+- 🔭 I’m currently working on Python , c#, html,c++ and css
 
 - 🌱 I’m currently learning Java
 
 
-- 💬 Ask me about html and Python
+- 💬 Ask me about html ,Python, and css
 
 - 📫 Feel free to reach me out vitela991@gmail.com
 
