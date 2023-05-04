@@ -27,6 +27,8 @@
 
 <!--Intro start-->
 
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <br>
   
  
 
@@ -38,6 +40,9 @@
 - 💬 Ask me about html and Python
 
 - 📫 Feel free to reach me out vitela991@gmail.com
+
+
+
 
 
 
@@ -86,11 +91,11 @@
 
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
