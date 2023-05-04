@@ -95,7 +95,7 @@
 
 <!--profile visit count-->
 <p align="center"> 
-  Visitor count<br>
+  <br>
   <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
 </p>
 
