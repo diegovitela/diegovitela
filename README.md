@@ -91,7 +91,9 @@
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j7y7wbs6til753bots4isgjrna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div class="text-center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j7y7wbs6til753bots4isgjrna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <!--profile visit count-->
 <p align="center"> 
